@@ -1,4 +1,4 @@
-import 'package:face_detection_app/src/core/controllers/theme_mode_controller.dart';
+import 'package:face_detection_app/src/controllers/theme_mode_controller.dart';
 import 'package:flutter/material.dart';
 
 class ToggleThemeFAB extends StatelessWidget {

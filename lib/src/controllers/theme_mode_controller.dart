@@ -1,4 +1,4 @@
-import 'package:face_detection_app/src/core/constants/storage_keys.dart';
+import 'package:face_detection_app/src/constants/storage_keys.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

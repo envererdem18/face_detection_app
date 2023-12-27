@@ -1,4 +1,4 @@
-import 'package:face_detection_app/src/features/home/home_screen.dart';
+import 'package:face_detection_app/src/screens/home/home_screen.dart';
 import 'package:face_detection_app/src/theme/app_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
